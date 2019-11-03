@@ -1,4 +1,4 @@
-:rocket: TodoIst
+:rocket: TodoIst (v1.0)
 ---------
 (Unity open source plugin)
 
@@ -58,10 +58,14 @@ Space for your tasks in unity
 :package: Installing
 ---------
 * Download package and import to Unity
+* [Download Here](https://github.com/AdrianOrcik/Unity_Plugin_TodoIst)
 * Package Folder Dependency
-  * ../Assets/Scripts/Editor/TodoIst
-  * ../Assets/Resources/TodoIstIcons
+  * ../Assets/Plugin_TodoIst/Editor/TodoIst
   
+ :construction: Source code repository
+---------
+* [Here](https://github.com/AdrianOrcik/Unity_Plugin_TodoIst_Source)
+ 
 :card_file_box: Feature request
  ---------
 If you have feature requests, let's talk about them in [this issue](https://github.com/AdrianOrcik/Unity_Todo/issues)!
