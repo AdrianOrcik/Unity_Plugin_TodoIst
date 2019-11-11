@@ -76,4 +76,8 @@ If you have feature requests, let's talk about them in [this issue](https://gith
  - [ ] Note implementation
  - [ ] Generating tasks by exception handling
  - [ ] Overal progress / statistics
+ 
+:fire: Support
+ ---------
+ [![Buy Me A Coffe](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/AdrianOrcik)
 
