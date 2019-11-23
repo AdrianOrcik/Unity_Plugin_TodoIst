@@ -1,6 +1,6 @@
 :rocket: TodoIst (v1.0)
 ---------
-(Unity open source plugin)
+(Unity open source plugin) - Package contains open source code
 
 Space for your tasks in unity
 
