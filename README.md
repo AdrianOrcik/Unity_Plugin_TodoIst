@@ -69,13 +69,6 @@ Space for your tasks in unity
 :card_file_box: Feature request
  ---------
 If you have feature requests, let's talk about them in [this issue](https://github.com/AdrianOrcik/Unity_Todo/issues)!
-
-:construction_worker: Soon features
- ---------
- - [ ] Editor-First tasks implementation (Able to creating task in editor)
- - [ ] Note implementation
- - [ ] Generating tasks by exception handling
- - [ ] Overal progress / statistics
  
 :fire: Support
  ---------
