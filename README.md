@@ -70,7 +70,3 @@ Space for your tasks in unity
  ---------
 If you have feature requests, let's talk about them in [this issue](https://github.com/AdrianOrcik/Unity_Todo/issues)!
  
-:fire: Support
- ---------
- [![Buy Me A Coffe](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/AdrianOrcik)
-
